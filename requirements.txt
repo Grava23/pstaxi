@@ -1,0 +1,15 @@
+asgiref==3.5.0
+automium==0.2.6
+automium-web==0.1.1
+click==8.0.4
+colorama==0.4.4
+Django==4.0.2
+django-environ==0.8.1
+Flask==2.0.3
+itsdangerous==2.1.0
+Jinja2==3.0.3
+legacy==0.1.6
+MarkupSafe==2.1.0
+sqlparse==0.4.2
+tzdata==2021.5
+Werkzeug==2.0.3
