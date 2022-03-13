@@ -11,7 +11,8 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 import environ
 from pathlib import Path
-
+import django_heroku
+django_heroku.settings(locals())
 
 env = environ.Env()
 environ.Env.read_env()
